@@ -1,12 +1,12 @@
 .white{background-color: #eeeeed;
-       width: 50%;
+       width: 30%;
        height: 100%;
        margin-left: auto;
        margin-right: auto;
        position: relative;}
 .red{background-color: #e7160b;
-     width: 72%;
-     height: 72%;
+     width: 42%;
+     height: 42%;
      position: absolute;
      left: 28%;}
 .blue{background-color: #04519f;
@@ -15,7 +15,7 @@
       position: absolute;
       top: 72%;}
 .black1{background-color: black;
-        width: 28%;
+        width: 18%;
         height: 43px;
         position: absolute;
         top: 30%;}
@@ -39,7 +39,7 @@
         width: 11%;
         height: 30px;
         position: absolute;
-        top: 84%;
+        top: 74%;
         left: 89%;}
 .yellow{background-color: #f4e362;
         width: 8.8%;
